@@ -15,4 +15,5 @@ Random generator is in too.
 - in range 1-49
 
 Program, check if numbers witch you put, are same as random.
-tells you how many you guess, or if you win something.
+
+Tells you how many you guess, or if you win something.
