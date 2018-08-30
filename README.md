@@ -1,6 +1,7 @@
 # Lotto
 
 LOTTO SIMULATOR
+
 With scanner you can put numbers in.
 You can type  only numbers in range 1-49 no duplication.
 An error will pop out, when you type:
